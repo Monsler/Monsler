@@ -8,7 +8,7 @@
 <p2>3 > <a href="https://github.com/Monsler/PHP-Fusion-1.5">PHP Fusion 1.5</a></p2>
 
 
-<br><h> GitHub Statistics: </h><br>
+<br><h2> GitHub Statistics: </h2><br>
 
 ![Monsler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsler&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 ![Monsler's Stats](https://github-readme-stats.vercel.app/api?username=Monsler&theme=darcula&show_icons=true&hide_border=true&count_private=true)
