@@ -3,8 +3,8 @@
 <img width=150 align = "center" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" >
 
 <h> Hello there, im a indie Belarussian developer. There's my cool projects: </h>
-<p>1 > <a href="https://github.com/ArtyomKingmang/Lazurite">Lazer package helper</a></p>
-<p>2 > <a href="https://github.com/ArtyomKingmang/Blind-Engine">Blind Engine</a></p>
+<p>1 > <a href="https://github.com/Monsler/Lazer">Lazer package helper</a></p>
+<p>2 > <a href="https://github.com/Monsler/Blind-Engine">Blind Engine</a></p>
 <p2>3 > <a href="https://github.com/Monsler/PHP-Fusion-1.5">PHP Fusion 1.5</a></p2>
 
 
