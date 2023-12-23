@@ -6,6 +6,6 @@
 <p>1 > <a href="https://github.com/ArtyomKingmang/Lazurite">Lazer package helper</a></p>
 <p>2 > <a href="https://github.com/ArtyomKingmang/Blind-Engine">Blind Engine</a></p>
 <p2>3 > <a href="https://github.com/Monsler/PHP-Fusion-1.5">PHP Fusion 1.5</a></p2>
-<h> GitHub Statistics: </h>
+<h> GitHub Statistics: </h><br>
 ![Monsler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsler&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 ![Monsler's Stats](https://github-readme-stats.vercel.app/api?username=Monsler&theme=darcula&show_icons=true&hide_border=true&count_private=true)
