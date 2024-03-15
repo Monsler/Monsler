@@ -11,4 +11,4 @@
 <br><h2> GitHub Statistics: </h2><br>
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsler&layout=compact&theme=tokyonight)
-![Monsler's Stats](https://github-readme-stats.vercel.app/api?username=Monsler&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=ArtyomKingmang&theme=tokyonight)
