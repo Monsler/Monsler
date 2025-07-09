@@ -15,5 +15,5 @@
 
 <br>
 
-![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=Monsler&theme=tokyonight)
+<img src="https://d3frb2mbny706b.cloudfront.net/Monsler" width="600">
 </p>
