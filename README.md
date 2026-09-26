@@ -1,25 +1,25 @@
 <h1 align="center">Monsler</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Monsler">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,nim">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Monsler">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,clion&perline=4">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Monsler">
     <img src="https://skillicons.dev/icons?i=github,discord&perline=4">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Monsler">
     <img src="https://skillicons.dev/icons?i=nix&perline=4">
   </a>
 </p>
