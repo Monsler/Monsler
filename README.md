@@ -20,7 +20,8 @@
 
 <p align="center">
   <a href="https://github.com/Monsler">
-    <img src="https://skillicons.dev/icons?i=nix&perline=4">
+    <img src="https://skillicons.dev/icons?i=linux&perline=4">
+
   </a>
 </p>
 
